@@ -1,0 +1,2 @@
+- when help user to write git msg, follow the rule format of `tag: detail`, like `fix: solve the file safty problem`
+- git tags contains: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `chore`, `revert` and so on.
